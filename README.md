@@ -11,6 +11,25 @@ TypingTest-GUI is a Java-based desktop application designed to offer a simple ye
   - Username: `shko`
   - Password: `koyauniversity`
 
+## External Dependencies
+This project requires external JAR files. Follow the instructions below to add these JAR files to your project.
+
+### For Eclipse:
+1. Right-click on your project.
+2. Select `Build Path`.
+3. Click on `Configure Build Path`.
+4. Click on `Libraries`, select `Modulepath`, and select `Add External JARs`.
+5. Select the JAR file from the required folder.
+6. Click `Apply` and `OK`.
+
+### For IntelliJ IDEA:
+1. Open your installed IntelliJ IDEA Project.
+2. Go to `File` > `Project Structure`.
+3. Select `Libraries` on the left panel.
+4. Select the `+` icon and choose `JAVA`.
+5. Select your JAR file or the directories containing it.
+6. Click on the `OK` button.
+
 ## Getting Started
 To use TypingTest-GUI, you need to have Java installed on your machine. Follow these steps to set up and start the application:
 
@@ -22,4 +41,4 @@ To use TypingTest-GUI, you need to have Java installed on your machine. Follow t
 Contributions to TypingTest-GUI are welcome. Whether it's feature enhancements, bug fixes, or documentation improvements, feel free to fork this repository and submit a pull request.
 
 ## License
-This project is licensed under [specify the license type here].
+Free to use.
